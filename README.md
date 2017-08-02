@@ -1,7 +1,12 @@
 # Timeseries Analysis tool in R 
 
-This file uses numerous approches like ETS, ARIMA, HOLT WINTERS and STLF.
-
+This file uses numerous approches like 
+```
+- ETS; 
+- ARIMA; 
+- HOLT WINTERS;
+- STLF.
+```
 - RUN timeforecast.R
 
 Enjoy!!:)

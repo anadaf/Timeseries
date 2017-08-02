@@ -1,6 +1,6 @@
 # Timeseries Analysis tool in R 
 
-This file uses numerous approches like 
+This file uses numerous approches such as 
 ```
 - ETS; 
 - ARIMA; 
